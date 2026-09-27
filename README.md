@@ -11,6 +11,10 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=taloy6&style=for-the-badge&color=76B900&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/taloy6?style=for-the-badge&color=76B900&labelColor=0D1117&label=FOLLOWERS" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/taloy6?style=for-the-badge&color=76B900&labelColor=0D1117&label=STARS" />
 
 </div>
 
@@ -91,6 +95,7 @@ research_focus:
 <img src="https://img.shields.io/badge/CUDA_C-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=76B900&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/CMake-0D1117?style=for-the-badge&logo=cmake&logoColor=76B900&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=76B900&labelColor=0D1117" />
 </p>
 
 <h3>Libraries</h3>
@@ -100,6 +105,8 @@ research_focus:
 <img src="https://img.shields.io/badge/GStreamer-0D1117?style=for-the-badge&logo=gstreamer&logoColor=76B900&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/TensorRT-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/cuDNN-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Eigen-0D1117?style=for-the-badge&logo=eigen&logoColor=76B900&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/STL-0D1117?style=for-the-badge&logo=cplusplus&logoColor=76B900&labelColor=0D1117" />
 </p>
 
 <h3>Platforms</h3>
@@ -109,6 +116,7 @@ research_focus:
 <img src="https://img.shields.io/badge/JetPack_4.6-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Ubuntu_18.04-0D1117?style=for-the-badge&logo=ubuntu&logoColor=76B900&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=76B900&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/ARM64-0D1117?style=for-the-badge&logo=arm&logoColor=76B900&labelColor=0D1117" />
 </p>
 
 <h3>Tooling</h3>
@@ -118,6 +126,8 @@ research_focus:
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=76B900&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=76B900&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Vim-0D1117?style=for-the-badge&logo=vim&logoColor=76B900&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=76B900&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/CMake-0D1117?style=for-the-badge&logo=cmake&logoColor=76B900&labelColor=0D1117" />
 </p>
 
 ---
@@ -159,6 +169,10 @@ A modular, real-time vision framework for the NVIDIA Jetson TX2 NX. Integrates h
 <td><b>System Power</b></td>
 <td>~5.5 W</td>
 </tr>
+<tr>
+<td><b>Architecture</b></td>
+<td>Three-tier async · Pimpl · Zero-copy</td>
+</tr>
 </table>
 
 <h3>Architecture Highlights</h3>
@@ -179,9 +193,35 @@ A modular, real-time vision framework for the NVIDIA Jetson TX2 NX. Integrates h
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=taloy6&show_icons=true&theme=dark&bg_color=0D1117&title_color=76B900&icon_color=76B900&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true&hide=contribs" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=taloy6&show_icons=true&theme=dark&bg_color=0D1117&title_color=76B900&icon_color=76B900&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true&hide=contribs" />
+&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taloy6&layout=compact&theme=dark&bg_color=0D1117&title_color=76B900&text_color=C9D1D9&border_color=30363D&langs_count=6" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taloy6&layout=compact&theme=dark&bg_color=0D1117&title_color=76B900&text_color=C9D1D9&border_color=30363D&langs_count=6" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=taloy6&theme=dark&background=0D1117&ring=76B900&fire=76B900&currStreakLabel=76B900&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&border=30363D" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=taloy6&theme=react-dark&bg_color=0D1117&color=76B900&line=76B900&point=C9D1D9&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<h2><code>$ cat contributions.graph</code></h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/taloy6/taloy6/output/snake.svg" alt="Contribution snake animation" />
 
 </div>
 
