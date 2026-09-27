@@ -115,7 +115,7 @@ research_focus:
 <img src="https://img.shields.io/badge/Jetson_TX2_NX-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/JetPack_4.6-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Ubuntu_18.04-0D1117?style=for-the-badge&logo=ubuntu&logoColor=76B900&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=76B900&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Linux_Kernel-0D1117?style=for-the-badge&logo=linux&logoColor=76B900&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/ARM64-0D1117?style=for-the-badge&logo=arm&logoColor=76B900&labelColor=0D1117" />
 </p>
 
@@ -127,7 +127,6 @@ research_focus:
 <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=76B900&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Vim-0D1117?style=for-the-badge&logo=vim&logoColor=76B900&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=76B900&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/CMake-0D1117?style=for-the-badge&logo=cmake&logoColor=76B900&labelColor=0D1117" />
 </p>
 
 ---
@@ -203,7 +202,7 @@ A modular, real-time vision framework for the NVIDIA Jetson TX2 NX. Integrates h
 
 <div align="center">
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=taloy6&theme=dark&background=0D1117&ring=76B900&fire=76B900&currStreakLabel=76B900&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&border=30363D" />
+<img width="80%" src="https://streak-stats.demolab.com/?user=taloy6&theme=dark&background=0D1117&ring=76B900&fire=76B900&currStreakLabel=76B900&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&border=30363D" />
 
 </div>
 
@@ -211,7 +210,7 @@ A modular, real-time vision framework for the NVIDIA Jetson TX2 NX. Integrates h
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=taloy6&theme=react-dark&bg_color=0D1117&color=76B900&line=76B900&point=C9D1D9&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=taloy6&theme=react-dark&bg_color=0D1117&color=76B900&line=76B900&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution+Activity" />
 
 </div>
 
@@ -221,7 +220,7 @@ A modular, real-time vision framework for the NVIDIA Jetson TX2 NX. Integrates h
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/taloy6/taloy6/output/snake.svg" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/taloy6/taloy6/output/snake.svg?v=1" alt="Contribution snake animation" />
 
 </div>
 
